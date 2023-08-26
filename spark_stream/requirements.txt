@@ -1,0 +1,9 @@
+kafka-python
+confluent-kafka
+streamlit
+pandas
+numpy
+pyspark
+matplotlib
+seaborn
+python-dotenv
